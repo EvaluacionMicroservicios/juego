@@ -1,0 +1,8 @@
+com\juego\juego\model\Personaje.class
+com\juego\juego\service\Interface\PersonajeComandoImpl.class
+com\juego\juego\service\PersonajeService.class
+com\juego\juego\JuegoApplication.class
+com\juego\juego\service\Interface\PersonajeConsultaImpl.class
+com\juego\juego\controller\handler\PersonajeHandler.class
+com\juego\juego\repository\PersonajeRepository.class
+com\juego\juego\service\PersonajeRouter.class
